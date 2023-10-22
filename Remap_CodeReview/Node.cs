@@ -1,0 +1,14 @@
+﻿namespace Remap_CodeReview
+{
+    public class Node
+    {
+        public int data;
+        public Node next;
+
+        public Node(int data) 
+        {
+            this.data = data;
+        }
+
+    }
+}
